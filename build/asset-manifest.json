@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/TIL/static/js/main.adba4a85.js",
-    "index.html": "/TIL/index.html",
-    "main.adba4a85.js.map": "/TIL/static/js/main.adba4a85.js.map"
+    "main.js": "/RECOIL/static/js/main.80c4da54.js",
+    "index.html": "/RECOIL/index.html",
+    "main.80c4da54.js.map": "/RECOIL/static/js/main.80c4da54.js.map"
   },
   "entrypoints": [
-    "static/js/main.adba4a85.js"
+    "static/js/main.80c4da54.js"
   ]
 }
